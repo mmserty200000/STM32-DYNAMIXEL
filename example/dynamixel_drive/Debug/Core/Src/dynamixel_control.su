@@ -1,0 +1,11 @@
+../Core/Src/dynamixel_control.c:42:9:calc_checksum	24	static
+../Core/Src/dynamixel_control.c:50:19:dynamixel_send	40	static
+../Core/Src/dynamixel_control.c:79:19:dynamixel_read_oneb	64	static
+../Core/Src/dynamixel_control.c:101:19:dynamixel_read_twob	64	static
+../Core/Src/dynamixel_control.c:123:19:dynamixel_write_oneb	56	static
+../Core/Src/dynamixel_control.c:145:19:dynamixel_write_twob	56	static
+../Core/Src/dynamixel_control.c:166:19:dynamixel_factory_reset	56	static
+../Core/Src/dynamixel_control.c:187:19:dynamixel_en_torq	56	static
+../Core/Src/dynamixel_control.c:195:19:dynamixel_set_goal_pos	56	static
+../Core/Src/dynamixel_control.c:204:19:dynamixel_set_id	56	static
+../Core/Src/dynamixel_control.c:212:19:dynamixel_set_baud	56	static

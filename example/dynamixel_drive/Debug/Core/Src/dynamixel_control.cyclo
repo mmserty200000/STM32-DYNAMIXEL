@@ -1,0 +1,11 @@
+dynamixel_control.c:42:9:calc_checksum	2
+dynamixel_control.c:50:19:dynamixel_send	6
+dynamixel_control.c:79:19:dynamixel_read_oneb	4
+dynamixel_control.c:101:19:dynamixel_read_twob	4
+dynamixel_control.c:123:19:dynamixel_write_oneb	4
+dynamixel_control.c:145:19:dynamixel_write_twob	4
+dynamixel_control.c:166:19:dynamixel_factory_reset	4
+dynamixel_control.c:187:19:dynamixel_en_torq	1
+dynamixel_control.c:195:19:dynamixel_set_goal_pos	1
+dynamixel_control.c:204:19:dynamixel_set_id	1
+dynamixel_control.c:212:19:dynamixel_set_baud	1
