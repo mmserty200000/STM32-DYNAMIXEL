@@ -6,4 +6,5 @@ The example was written for the stm32g030 microcontroller and tested on it, theo
 The default speed is 1M bps but can be changed
 Usart must be configured as shown below:
 
-<img width="203" alt="usart_screen" src="https://github.com/mmserty200000/STM32-DYNAMIXEL/assets/82755461/d487599e-5dec-418a-9556-32d4b723c31b">
+
+<img width="304" alt="usart_screen" src="https://github.com/mmserty200000/STM32-DYNAMIXEL/assets/82755461/da7e0607-ac30-41f7-acd3-e0574af85d2f">
