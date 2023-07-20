@@ -4,6 +4,7 @@ STM32 DYNAMIXEL AX12A LIB implements dynamixel protocol 1.0
 The example was written for the stm32g030 microcontroller and tested on it, theoretically it should work on all microcontrollers of the STM32 series only with a change in the version of the HAL library.
 
 The default speed is 1M bps but can be changed
+
 Usart must be configured as shown below:
 
 
