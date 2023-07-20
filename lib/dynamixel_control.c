@@ -30,8 +30,8 @@
 /*
  * Bit 7	0	                 All ok
  * Bit 6	Instruction Error	 In case of sending an undefined instruction or delivering the action instruction without the Reg Write instruction, it is set as 1
- * Bit 5	Overload Error	     When the current load cannot be controlled by the set Torque, it is set as 1
- * Bit 4	Checksum Error	     When the Checksum of the transmitted Instruction Packet is incorrect, it is set as 1
+ * Bit 5	Overload Error	         When the current load cannot be controlled by the set Torque, it is set as 1
+ * Bit 4	Checksum Error	         When the Checksum of the transmitted Instruction Packet is incorrect, it is set as 1
  * Bit 3	Range Error	         When an instruction is out of the range for use, it is set as 1
  * Bit 2	Overheating Error	 When internal temperature of DYNAMIXEL is out of the range of operating temperature set in the Control table, it is set as 1
  * Bit 1	Angle Limit Error	 When Goal Position is written out of the range from CW Angle Limit to CCW Angle Limit , it is set as 1
