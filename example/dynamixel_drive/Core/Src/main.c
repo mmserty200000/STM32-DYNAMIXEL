@@ -57,9 +57,7 @@ static void MX_USART1_UART_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-uint16_t checksum;
 
-uint8_t buff_in[6];
 /* USER CODE END 0 */
 
 /**
